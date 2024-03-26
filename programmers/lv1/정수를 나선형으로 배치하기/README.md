@@ -46,4 +46,4 @@
 
 ---
 
-**[출처]** 프로그래머스 > 코딩테스트 연습 > 코딩테스트 입문 > [정수를 나선형으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/181832)
+**[출처]** 프로그래머스 > 코딩테스트 연습 > 코딩 기초 트레이닝 > [정수를 나선형으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/181832)
