@@ -18,4 +18,3 @@ input.forEach(element => {
 })
 
 console.log(baskets.join(' '));
-// 35m
